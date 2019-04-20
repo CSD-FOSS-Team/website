@@ -64,10 +64,10 @@ The structure of each sub-directory is as follows:
     - files needed in installation
     - various exporters
     - logging (mostly for debugging issues and transparency)
-    - registry handling scripts, running threads, executing children, etc.
+    - registry handling scripts, running threads, executing child processes, etc.
     - GUI codebase (e.g. event handlers)
  4. `scripts`
-    - guidelines on contributing by writing bash scripts
+    - guidelines on [contributing][scripts-guideline] by writing bash scripts
     - the bash scripts used by genume themselves
 
 ### Availability
@@ -76,15 +76,9 @@ Genume is designed to be distribution-agnostic and is successfully tested on Ubu
 The reader is encouraged to try genume on his/hers own distribution and supply the team with relevant feedback.
 There are detailed instructions on how to make genume run successfully for Ubuntu/Debian/Raspbian, Fedora and Arch Linux distributions.
 
-### Specifics
-
-Should this section exist?
-
-### More
-
-I'll add stuff here when the question above is answered.
 
 _author_: Orestis Ousoultzoglou TODO: add link.
 
 [github-link]: https://github.com/CSD-FOSS-Team/genume
 [github-repo]: https://github.com/CSD-FOSS-Team/genume
+[scripts-guideline]: https://github.com/CSD-FOSS-Team/genume/blob/bddd07b1b2789eb043c7a62d15709a9b8f138dc7/scripts/PROTOCOL.md
