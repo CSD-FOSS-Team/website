@@ -46,3 +46,22 @@ Please ask me for my PGP key, or my Tox id.
 [email]: mailto:xlxs4@pm.me
 
 ----
+
+### Stefanos Karamperas
+
+Ambitious upcoming Software Developer, who pursues his professional and personal goals with persistence.
+
+Recognized for his willingness to commit himself to responsibilities and initiatives every time it is deemed necessary, with confidence and self-control even under extreme pressure.
+
+Characterized by his operational agility and capability of rapid adaptation to new technologies, working environments and requirements, with conscientiousness and responsibility constituting the basis of his personal ideology and professional ethics.
+Emphasis on his problem solving, cooperation and interpersonal communication skills, with the ultimate goal of fulfilling the defined objectives of his team.
+
+Known for being a strong debater through his participation in both formal and informal debating events, with logical thinking and well-structured arguments defining the basis of all of his speeches.
+
+Want to learn more about me and review my profile in detail?
+
+If that's the case, here's my LinkedIn [profile][].
+
+Feel free to contact me there!
+
+[profile]: https://www.linkedin.com/in/stefanos-karamperas-983969168/
